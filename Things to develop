@@ -1,1 +1,48 @@
+AI Tools to develop:
 
+✅ AI & Data Platforms (Core Systems)
+Occupational Hygiene Data Analysis Tool (Web‑based)
+Ventilation MAGE Platform
+Central system for ventilation + hygiene data: logging, statistics, automated reports, and personnel exposure reporting
+Ventilation Agent (general AI assistant)
+Ventsim Agent
+Review Ventsim models vs actual measurements and generate recommendations
+Dräger Exception Report Agent
+Chemical Risk Analysis – Weighted Graph Tool
+(Ref: tool designed previously for Jimmy)
+
+✅ Ventilation Planning, Engineering & Analytics
+Ventilation Planning Tool integrated with Ventsim
+Integrated Ventilation Planning App
+Visual outputs
+Export directly to PowerPoint (.PPT)
+Ventilation Capacity Calculator Replacement App
+Ventilation Inventory System (Core App)
+Ventilation Inventory App with AI + SAP API integration
+
+✅ Training, LMS & Capability Building
+Ventilation LMS System
+OT Ventilation Academy – LMS
+
+✅ Fire & Safety Simulation Enhancements
+BEV Fire Simulation – Improvements
+Add centerlines per circle
+Add plane for SCSR donning
+Opacity slider to isolate data points
+Visual indicators (skull + escaping person)
+
+✅ Existing Apps – Enhancements & Maintenance
+Aaron PCBC App – Further Development
+Hot Water App – Improvements
+Calibration tool (CSV upload to compare model vs actuals)
+Update boiler information (per BB’s document)
+Set SH3 to −8 °C and flag as manual
+Add reverse‑calculation tab (input hot water flow → calculate collar temperatures)
+
+✅ Site / UB Utility Apps
+UB Parking App (BB concept)
+BBs Parking App for UB (consolidated with above)
+
+✅ Experimental / Social / Other
+Social Media Voting App
+Users vote on “who is right / who is wrong” (concept / experimental)
